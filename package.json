@@ -1,0 +1,26 @@
+{
+  "name": "xconf-consent-manager",
+  "version": "1.0.0",
+  "description": "Consent manager for Financial Institutions",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-debdutta/xconf-consent-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-debdutta/xconf-consent-manager/issues"
+  },
+  "homepage": "https://github.com/m-debdutta/xconf-consent-manager#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
